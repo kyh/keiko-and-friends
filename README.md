@@ -1,5 +1,15 @@
-# Keiko-and-friends
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
-Keiko and friends sticker pack. Made with love and pencils.
+# Keiko and friends
+> Made with love and pencils.
 
-Download at: https://itunes.apple.com/ae/app/keiko-and-friends/id1209391711?mt=8
+## What is it?
+This repository contains the official [Keiko and Friends](https://goo.gl/aiDbnZ) iMessage sticker pack. Please help contribute your your friendship as we continue adding new friends!
+
+Check out [the request form](https://itsbananas.club/keiko) for more info, and add yourself to the request list to be included in the pack.
+
+## Contributing
+Please read the [contributors' guide](CONTRIBUTING.md)
+
+## Open-source Contributors
+* [@tehkaiyu](https://twitter.com/tehKaiyu): Illustrated the very first avatars!
