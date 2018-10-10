@@ -6,7 +6,7 @@
 ## What is it?
 This repository contains the official [Keiko and Friends](https://goo.gl/aiDbnZ) iMessage sticker pack. Please help contribute your your friendship as we continue adding new friends!
 
-Check out [the request form](https://itsbananas.club/keiko) for more info, and add yourself to the request list to be included in the pack.
+You can create an [issue](https://github.com/its-bananas/keiko-and-friends/issues/new?template=new_avatar_request.md) to request yourself (or friends, with their consent of course) to be included in the sticker pack.
 
 ## Contributing
 Please read the [contributors' guide](.github/CONTRIBUTING.md)
