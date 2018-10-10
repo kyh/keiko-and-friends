@@ -9,7 +9,7 @@ This repository contains the official [Keiko and Friends](https://goo.gl/aiDbnZ)
 Check out [the request form](https://itsbananas.club/keiko) for more info, and add yourself to the request list to be included in the pack.
 
 ## Contributing
-Please read the [contributors' guide](CONTRIBUTING.md)
+Please read the [contributors' guide](.github/CONTRIBUTING.md)
 
 ## Open-source Contributors
 * [@tehkaiyu](https://twitter.com/tehKaiyu): Illustrated the very first avatars!
