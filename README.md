@@ -12,4 +12,4 @@ You can create an [issue](https://github.com/its-bananas/keiko-and-friends/issue
 Please read the [contributors' guide](.github/CONTRIBUTING.md)
 
 ## Authors
-* [@tehkaiyu](https://twitter.com/tehKaiyu): Illustrated some people
+* [@tehkaiyu](https://kyh.io): Illustrated some people
