@@ -1,4 +1,11 @@
 {
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
   "stickers" : [
     {
       "filename" : "MARRIED TO DA MONAY.sticker"
@@ -59,13 +66,9 @@
     },
     {
       "filename" : "O.sticker"
+    },
+    {
+      "filename" : "ELLO DERE.sticker"
     }
-  ],
-  "info" : {
-    "version" : 1,
-    "author" : "xcode"
-  },
-  "properties" : {
-    "grid-size" : "regular"
-  }
+  ]
 }
